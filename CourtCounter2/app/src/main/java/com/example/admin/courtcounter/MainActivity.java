@@ -73,6 +73,8 @@ public class MainActivity extends AppCompatActivity {
     {
         tvScoreA.setText("0");
         tvScoreB.setText("0");
+        scoreB=0;
+        scoreA=0;
     }
 
 }
